@@ -1,0 +1,1 @@
+tools\7z.exe a -tzip releases\%1-latest.nw *

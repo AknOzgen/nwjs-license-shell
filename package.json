@@ -1,0 +1,21 @@
+{
+	"name": "nwjs-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.html",
+	"scripts": {
+		"start": "run.cmd"
+	},
+	"window" : {
+		"title": "Deneme Uygulama",
+		"toolbar": true,
+		"frame": true,
+		"width": 850,
+		"height": 500,
+		"position": "center",
+		"resizable": true,
+		"icon": "favicon.ico"
+	},
+	"author": "",
+	"license": "ISC"
+}
